@@ -1,9 +1,6 @@
 /* Tela 720px */
 
 @media (min-width:720px){
-.title{
-color:red;
-} 
 
 .box-branco{
 width: 316px;
@@ -27,9 +24,6 @@ font-size: 16.5px;
 /* Tela 992px */
 
 @media (min-width:920px){
-.title{
-color:blue;
-} 
 
 .box-branco{
 width: 371.2px;
@@ -53,9 +47,6 @@ font-size: 18.8px;
     /* Tela 1200px */
 
 @media (min-width:1200px){
-.title{
-color:green
-} 
 
 .box-branco{
 width: 437.44px;
